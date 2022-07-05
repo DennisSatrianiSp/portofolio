@@ -1,0 +1,84 @@
+body {
+  background-color: black;
+}
+.putih {
+  color: white;
+}
+.tombol {
+  font-family: 'Anek Latin', sans-serif;
+}
+.tombol:hover {
+  color: #fff200;
+}
+.container12 {
+  position: absolute;
+}
+#particles-js {
+  height: 550px;
+}
+.margin {
+  margin-top: 150px;
+  margin-left: 67px;
+}
+.gambar {
+  margin-top: 0px;
+}
+.tekan:hover {
+  background-color: black;
+  color: white;
+  border-color: white;
+}
+.animasi {
+  color: #fff200;
+}
+.jarak {
+  margin-top: 50px;
+  margin-left: 70px;
+}
+.foto {
+  margin-right: 120px;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.data {
+  font-size: 20px;
+  padding: 20px;
+  margin-top: 0px;
+  margin-left: 30px;
+  font-family: 'Arima', cursive;
+}
+.kuning {
+  color: #fff200;
+}
+.kartu {
+  border: 2px solid white;
+  background-color: darkslategrey;
+  color: white;
+  margin-top: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+.judul {
+  margin-top: 25px;
+}
+.proses {
+  margin: 10px;
+}
+.navbar-dark:hover {
+  color: #fff200 !important;
+}
+.aturan {
+  margin-top: 70px;
+}
+.padding {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.kartu1 {
+  border: 2px solid white;
+  color: white;
+  margin-top: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+.penutup {
+  margin-top: 80px;
+}

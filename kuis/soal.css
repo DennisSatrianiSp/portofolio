@@ -1,0 +1,12 @@
+body {
+  background-image: url('https://img.wallpapersafari.com/desktop/1600/900/10/70/oBkAEH.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.font {
+  font-family: 'Courier New', Courier, monospace;
+}
+.btn:hover {
+  background-color: white;
+}
