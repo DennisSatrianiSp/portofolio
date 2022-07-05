@@ -3,8 +3,8 @@ $(document).ready(function () {
     const a = Math.floor(Math.random() * 10 + 1);
     const b = Math.floor(Math.random() * 10 + 1);
 
-    $('#numb1').text(a);
-    $('#numb2').text(b);
+    $('#number1').text(a);
+    $('#number2').text(b);
   }
   random();
   const tombol = document.getElementById('tombol');
